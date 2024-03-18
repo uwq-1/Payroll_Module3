@@ -1,0 +1,7 @@
+
+	Pay Due : SalariedEmployee{
+weeklySalary=$1500.0} Employee{firstName='Kite', lastName='Doe', socialSecurityNumber='777-88-55'}	Date : 2024:03:18 - 10:26:07
+	Pay Due : SalariedEmployee{
+weeklySalary=$1500.0} Employee{firstName='Kite', lastName='Doe', socialSecurityNumber='777-88-55'}	Date : 2024:03:18 - 10:26:07
+	Pay Due : SalariedEmployee{
+weeklySalary=$1500.0} Employee{firstName='Kite', lastName='Doe', socialSecurityNumber='777-88-55'}	Date : 2024:03:18 - 10:26:07
